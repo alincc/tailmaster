@@ -4,7 +4,8 @@
 = v0.5.2=
 
  * Configured application logging. The application now appends logs to {{{USER_HOME/.tailmaster/tailmaster.log}}} file.
- * Fixed a bug which deletion of prevents configuration items(server and log data).
+ * Fixed a bug which prevents deletion of configuration items(server and log data).
+ * Finished update button implementation for log file configuration GUI.
 
 = v0.5.1=
 
