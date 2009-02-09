@@ -1,0 +1,9 @@
+#summary This page contains change log based on version.
+
+= v0.5.2=
+
+Configured application logging. The application now appends logs to {{{USER_HOME/.tailmaster/tailmaster.log}}} file.
+
+= v0.5.1=
+
+Added a simple ssh client. The ssh client is in experimental status.
