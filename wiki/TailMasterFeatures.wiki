@@ -1,4 +1,6 @@
+#summary This page contains features of TailMaster.
 #labels Featured
+
 = TailMaster Features =
 This page contains features of TailMaster:
 
