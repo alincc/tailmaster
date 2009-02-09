@@ -3,8 +3,9 @@
 
 = v0.5.2=
 
-Configured application logging. The application now appends logs to {{{USER_HOME/.tailmaster/tailmaster.log}}} file.
+ * Configured application logging. The application now appends logs to {{{USER_HOME/.tailmaster/tailmaster.log}}} file.
+ * Fixed a bug which deletion of prevents configuration items(server and log data).
 
 = v0.5.1=
 
-Added a simple ssh client. The ssh client is in experimental status.
+ * Added a simple ssh client. The ssh client is in experimental status.
