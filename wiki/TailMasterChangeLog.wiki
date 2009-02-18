@@ -1,7 +1,7 @@
 #summary This page contains change log based on version.
 #labels Featured
 
-= v0.5.2=
+= v0.5.3=
  * Escape character sequences are ignored in ssh terminal.(This feature will be abandoned, when escape character management is implemented)
 
 = v0.5.2=
