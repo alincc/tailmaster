@@ -3,6 +3,7 @@
 
 = v0.5.3=
  * Escape character sequences are ignored in ssh terminal.(This feature will be abandoned, when escape character management is implemented)
+ * System default LaF is used.
 
 = v0.5.2=
 
