@@ -2,6 +2,7 @@
 #labels Featured
 
 = v0.5.3=
+ * Server configurations can be updated using the Update button in "Server Configuration" dialog.
  * Escape character sequences are ignored in ssh terminal.(This feature will be abandoned, when escape character management is implemented)
  * System default LaF is used.
 
